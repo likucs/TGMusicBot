@@ -85,7 +85,7 @@
         },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/jankarikiduniya/AasthaTGMusicBot",
+        "value": "https://github.com/likucs/TGMusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
