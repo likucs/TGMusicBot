@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "Alexa"
+          find: "Alex"
 
           replace: "Sakura"
 
