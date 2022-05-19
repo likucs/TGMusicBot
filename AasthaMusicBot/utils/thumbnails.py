@@ -137,7 +137,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 550),
-            f"Owner : DR Asad Ali",
+            f"Play By : Sakura",
             (255, 255, 255),
             font=arial,
         )
