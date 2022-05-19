@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "Alex"
+          find: "DR Asad Ali"
 
-          replace: "Sakura"
+          replace: "iAmLiKu1"
 
       - name: Create Pull Request
 
