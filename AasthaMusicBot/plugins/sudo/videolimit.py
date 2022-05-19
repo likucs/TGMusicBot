@@ -4,7 +4,7 @@
 
 # Kanged By © @Dr_Asad_Ali
 # Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali 
+# Owner liku cs
 # Harshit Sharma
 # All rights reserved. Yukki
 
