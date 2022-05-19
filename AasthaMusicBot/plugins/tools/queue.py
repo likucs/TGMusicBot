@@ -50,12 +50,12 @@ async def ping_com(client, message: Message, _):
             for x in got:
                 j += 1
                 if j == 1:
-                    msg += f'Currently Playing:\n\n🏷Title: {x["title"]}\nDur: {x["dur"]}\n\n'
+                    msg += f'Currently Playing:\n\n🔖Title: {x["title"]}\nDur: {x["dur"]}\n\n'
                 elif j == 2:
-                    msg += f'Queued:\n\n🏷Title: {x["title"]}\nDur: {x["dur"]}\n\n'
+                    msg += f'Queued:\n\n🔖Title: {x["title"]}\nDur: {x["dur"]}\n\n'
                 else:
                     msg += (
-                        f'🏷Title: {x["title"]}\nDur: {x["dur"]}\n\n'
+                        f'🔖Title: {x["title"]}\nDur: {x["dur"]}\n\n'
                     )
             if "Queued" in msg:
                 link = await Asadbin(msg)
@@ -64,8 +64,8 @@ async def ping_com(client, message: Message, _):
                     car = os.linesep.join(msg.split(os.linesep)[:22])
                 else:
                     return await send.edit_text(msg)
-                if "🏷" in car:
-                    car = car.replace("🏷", "")
+                if "🔖" in car:
+                    car = car.replace("🔖", "")
                 carbon = await Carbon.generate(
                     car, randint(100, 10000000)
                 )
