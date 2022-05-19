@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "DR Asad Ali"
+          find: "AsadSupport"
 
-          replace: "iAmLiKu1"
+          replace: "Sakura_Music_Update"
 
       - name: Create Pull Request
 
