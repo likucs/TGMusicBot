@@ -40,12 +40,12 @@ def stream_markup(_, videoid):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/Dr_Asad_Ali"
+                text=_["PL_B_3"], url=f"https://t.me/Sakura_Music_Update"
             ),
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Alexa_Help"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Sakura_Music_Update"
             )
         ],
     ]
@@ -59,7 +59,7 @@ def telegram_markup(_):
                 text=_["PL_B_3"], switch_inline_query_current_chat=""
             ),
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Alexa_Help"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Sakura_Music_Update"
             ),
         ],
     ]
@@ -80,7 +80,7 @@ def playlist_markup(_, videoid, user_id, ptype):
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSE_BUTTON"], url=f"https://t.me/Shayri_Music_Lovers",
+                text=_["CLOSE_BUTTON"], url=f"https://t.me/Sakura_Music_Update",
             ),
         ],
     ]
@@ -95,7 +95,7 @@ def livestream_markup(_, videoid, user_id, mode):
                 callback_data=f"LiveStream {videoid}|{user_id}|{mode}",
             ),
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Shayri_Music_Lovers",
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Sakura_Music_Update",
             ),
         ],
     ]
