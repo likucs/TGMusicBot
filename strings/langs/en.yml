@@ -68,14 +68,14 @@ admin_27 : "Loop Play has been disabled"
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}. [Support](https://t.me/AsadSupport) [Network](https://t.me/Shayri_Music_Lovers)\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
+start_2 : "Hello, My name is {0}. [Support](https://t.me/Sakura_Music_Update) [Network](https://t.me/MC_updatess)\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
 start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
 
 # Help
-help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with /.\n\ Powered © By @AsadSupport, @Alexa_Help @Shayri_Music_Lovers"
+help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with /.\n\ Powered © By @Sakura_Music_Update, @cs_cloud @MC_updatess"
 help_2 : "Contact me in PM for help."
 
 # Settings
@@ -195,7 +195,7 @@ lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : "🌹 **ᴘᴏɴɢ!**\n`⚡{0} ms`\n\n<b><u>{1} **sᴛᴀᴛᴜs**:</u></b>\n⏰ **ᴜᴘᴛɪᴍᴇ** : {2} \n♈ **ʀᴀᴍ** : {3} \n💻 **ᴄᴘᴜ** : {4} \n💿 **ᴅɪsᴋ** : {5} \n🤭 **sᴇʀᴠᴇʀ** : @Alexa_Help"
+ping_2 : "🌹 **ᴘᴏɴɢ!**\n`⚡{0} ms`\n\n<b><u>{1} **sᴛᴀᴛᴜs**:</u></b>\n⏰ **ᴜᴘᴛɪᴍᴇ** : {2} \n♈ **ʀᴀᴍ** : {3} \n💻 **ᴄᴘᴜ** : {4} \n💿 **ᴅɪsᴋ** : {5} \n🤭 **sᴇʀᴠᴇʀ** : @Sakura_Music_Update"
 
 # Song
 song_1 : "You can download Music or Video from YouTube only in private chat. Please start me in private chat."
@@ -214,19 +214,19 @@ song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 queue_1 : "Please Wait..Fetching Queue.."
 queue_2 : "No tracks inside Queue."
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "⏳ **ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ** **#{0}\n\n💡  ᴛɪᴛʟᴇ:** {1}\n**⏱ ᴅᴜʀᴀᴛɪᴏɴ:** {2}\n👤**ᴀᴅᴅᴇᴅ ʙʏ:** @Alexa_Help"
+queue_4 : "⏳ **ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ** **#{0}\n\n💡  ᴛɪᴛʟᴇ:** {1}\n**⏱ ᴅᴜʀᴀᴛɪᴏɴ:** {2}\n👤**ᴀᴅᴅᴇᴅ ʙʏ:** @Sakura_Music_Update"
 
 # All Streaming Lines
-stream_1 : "🦋 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ** 🦋\n\n🦋**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {0}\n🔦<b>ɪɴғᴏ:</b>[ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ](https://t.me/Give_Me_Heart)"
-stream_2 : "🦋 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ ᴠɪᴀ ᴜʀʟ ** 🦋\n\n🦋**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {0}"
-stream_3 : "🦋 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ** 🦋\n\n**🏷Title:** {0}\n⏰**ᴅᴜʀᴀᴛɪᴏɴ**: {1}\n👤**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {2}"
-stream_4 : "🦋 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ** 🦋\n\n**🏷Title:** [{0}]({1})\n⏰**ᴅᴜʀᴀᴛɪᴏɴ**: {2}\n👤**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {3}"
+stream_1 : "🔖 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ** 💡\n\n🔖**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {0}\n🔦<b>ɪɴғᴏ:</b>[ᴜᴘᴅᴀᴛᴇs](https://t.me/Sakura_Music_Update)"
+stream_2 : "🔖 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ ᴠɪᴀ ᴜʀʟ ** 🔖\n\n🦋**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {0}"
+stream_3 : "🔖 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ** 💡\n\n**🏷Title:** {0}\n⏰**ᴅᴜʀᴀᴛɪᴏɴ**: {1}\n👤**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {2}"
+stream_4 : "🔖 **ꜱᴛᴀʀᴛᴇᴅ ꜱᴛʀᴇᴀᴍɪɴɢ** 🦋\n\n**🏷Title:** [{0}]({1})\n⏰**ᴅᴜʀᴀᴛɪᴏɴ**: {2}\n👤**ʀᴇQᴜᴇꜱᴛᴇᴅ ʙʏ:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "💢 ɴᴇᴛᴡᴏʀᴋ"
-CLOSEMENU_BUTTON  : "𓆩🖤/❤️❛ 𝐀𝐥𝐞𝐱𝐚♕𝐂𝐡𝐚𝐭︎ ᭄ ❜🖤/❤️𓆪"
+CLOSE_BUTTON  : "ᴜᴘᴅᴀᴛᴇs"
+CLOSEMENU_BUTTON  : "Sᴀᴋᴜʀᴀ Vᴄ"
 BACK_BUTTON : "⬅ Back"
 UNBAN_BUTTON : "🗑 ᴜɴʙᴀɴ ᴀꜱꜱɪꜱᴛᴀɴᴛ"
 
@@ -236,11 +236,11 @@ L_B_1 : "🚀 ᴄʜᴇᴄᴋᴏᴜᴛ ʟʏʀɪᴄꜱ ɴᴏᴡ"
 # Start
 S_B_1 : "🗒 ᴄᴏᴍᴍᴀɴᴅꜱ"
 S_B_2 : "🔧 ꜱᴇᴛᴛɪɴɢꜱ"
-S_B_3 : "📨 ꜱᴜᴘᴘᴏʀᴛ"
-S_B_4 : "📨 ᴄʜᴀɴɴᴇʟ"
+S_B_3 : "🌐 ꜱᴜᴘᴘᴏʀᴛ"
+S_B_4 : "🌐 ᴄʜᴀɴɴᴇʟ"
 S_B_5 : "✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ"
-S_B_6 : "💘 ɢɪᴛ ʀᴇᴘᴏ 💘"
-S_B_7 : "💘 ʙᴏᴛ ᴏᴡɴᴇʀ 💘"
+S_B_6 : "📫 sᴀᴋᴜʀᴀ 📭"
+S_B_7 : "💠 ʙᴏᴛ ᴏᴡɴᴇʀ 💠"
 S_B_8 : "🔎 ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇɴᴜ."
 
 #Help 
