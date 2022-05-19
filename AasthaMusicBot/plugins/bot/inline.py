@@ -65,7 +65,7 @@ async def inline_query_handler(client, query):
 
 __Reply with /play on this searched message to stream it on voice chat.__
 
-⚡️ ** Inline Search By @AsadSupport **"""
+⚡️ ** Inline Search By @Sakura_Music_Update **"""
             answers.append(
                 InlineQueryResultPhoto(
                     photo_url=thumbnail,
