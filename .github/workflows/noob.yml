@@ -33,7 +33,7 @@ jobs:
 
           commit_options: '--no-verify'
 
-          repository: .
+          repository: 'https://github.com/likucs/TGMusicBot'
 
           commit_user_name: likucs
 
