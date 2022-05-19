@@ -5,7 +5,7 @@
 # Kanged By © @Dr_Asad_Ali
 # Rocks © @Shayri_Music_Lovers
 # Owner Asad Ali 
-# Harshit Sharma
+# Harshit beju
 # All rights reserved. Yukki
 
 from pyrogram import filters
