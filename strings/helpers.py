@@ -31,7 +31,7 @@ Auth Users can use admin commands without admin rights in your chat.
 /auth [Username] - Add a user to AUTH LIST of the group.
 /unauth [Username] - Remove a user from AUTH LIST of the group.
 /authusers - Check AUTH LIST of the group.
-Powered © By @AsadSupport, @Alexa_Help @Shayri_Music_Lovers"""
+Powered © By @Sakura_Music_Update, @cs_cloud"""
 
 
 HELP_2 = """✅<u>**Play Commands:**</u>
@@ -62,7 +62,7 @@ Bot only supports YouTube, AppleMusic, Spotify, Resso, Soundcloud, M3u8 and Inde
 1️⃣ **Search Mode** [ Direct or Inline] :- Changes your search mode while you give /play mode. 
 2️⃣ **Play Mode** [ Group or Channel] :- Changes your Play mode to channel or group and streams music there only.
 3️⃣ **Play Type** [ Everyone or Admins] :- If admins, only admins present in group can play music on voice chat.
-Powered © By @AsadSupport, @Alexa_Help @Shayri_Music_Lovers"""
+Powered © By @Sakura_Music_Update,@cs_cloud"""
 
 
 HELP_3 = """✅<u>**Bot Commands:**</u>
@@ -76,14 +76,14 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 /song [Track Name] or [YT Link] - Download any track from youtube in mp3 or mp4 formats.
 
 /queue- Check Queue List of Music.
-Powered © By @AsadSupport, @Alexa_Help @Shayri_Music_Lovers"""
+Powered © By @Sakura_Music_Update,@cs_cloud"""
 
 
 HELP_4 = """✅<u>**Extra  Commands:**</u>
 /start - Start the Alexa Music Bot.
 /help  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Alexa.
-Powered © By @AsadSupport And @Alexa_Help
+Powered © By @Sakura_Music_Update,@cs_cloud
 
 ✅<u>**Group Settings:**</u>
 /settings - Get a complete group's settings with inline buttons
@@ -101,4 +101,4 @@ Powered © By @AsadSupport And @Alexa_Help
 5️⃣ **Clean Mode:** When enabled deletes the bot's messages after 5 mins from your group to make sure your chat remains clean and good.
 
 6️⃣ **Command Clean** : When activated, Bot will delete its executed commands (/play, /pause, /shuffle, /stop etc) immediately.
-Powered © By @AsadSupport, @Alexa_Help @Shayri_Music_Lovers"""
+Powered © By @Sakura_Music_Update,@cs_cloud"""
